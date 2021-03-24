@@ -18,6 +18,9 @@ public class MathUtil {
         // TODO code application logic here
         System.out.println("Hello Github!!");
         System.out.println("This is 1st upload from local to remote Github");
+        
+        int n = 5;
+        long expected = MathUtil.getFactorial(n);
     }
     
 }
